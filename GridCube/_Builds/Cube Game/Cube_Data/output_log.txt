@@ -1,0 +1,38 @@
+Initialize engine version: 5.2.4f1 (98095704e6fe)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.130 seconds
+desktop: 1920x1080 60Hz; virtual: 5760x1620 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Projects - Copy\21 Box Sequel\GridCube\_Builds\Cube Game\Cube_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 12f14 -> priority: 1 
+  Thread -> id: a0cc -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.032496 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 0.473315 ms (FindLiveObjects: 0.044373 ms CreateObjectMapping: 0.023324 ms MarkObjects: 0.390257 ms  DeleteObjects: 0.014791 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.302861 ms
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 1.512106 ms (FindLiveObjects: 0.180906 ms CreateObjectMapping: 0.084764 ms MarkObjects: 1.031395 ms  DeleteObjects: 0.211626 ms)
+

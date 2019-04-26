@@ -1,0 +1,56 @@
+Initialize engine version: 5.2.4f1 (98095704e6fe)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.058 seconds
+desktop: 1920x1080 60Hz; virtual: 4000x1280 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\User\Documents\Projects\21 Box Sequel\GridCube\_Builds\03Cube\Cube_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2964 -> priority: 1 
+  Thread -> id: 36b8 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 32.904808 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 604.
+Total: 8.285104 ms (FindLiveObjects: 0.036590 ms CreateObjectMapping: 0.016064 ms MarkObjects: 8.221739 ms  DeleteObjects: 0.009817 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.730027 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 605.
+Total: 0.425700 ms (FindLiveObjects: 0.082105 ms CreateObjectMapping: 0.016956 ms MarkObjects: 0.320837 ms  DeleteObjects: 0.004908 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.975006 ms
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.626949 ms (FindLiveObjects: 0.031235 ms CreateObjectMapping: 0.027219 ms MarkObjects: 0.460952 ms  DeleteObjects: 0.106648 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.264608 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 604.
+Total: 0.441318 ms (FindLiveObjects: 0.050423 ms CreateObjectMapping: 0.021865 ms MarkObjects: 0.361890 ms  DeleteObjects: 0.006247 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.352068 ms
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 1.040156 ms (FindLiveObjects: 0.046853 ms CreateObjectMapping: 0.037036 ms MarkObjects: 0.759925 ms  DeleteObjects: 0.195447 ms)
+
